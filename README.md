@@ -3,7 +3,7 @@
 
 - 🎓 Computer Science student at AGH University of Science and Technology
 
-- 🌱 I’m currently learning **Java, Python, React**
+- 🌱 I’m currently learning **Java, Python, JS**
 
 - 📫 How to reach me **adrianstahl.2@icloud.com**
 
