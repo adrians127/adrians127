@@ -3,7 +3,7 @@
 
 - 🎓 2nd-year Computer Science student at AGH University of Science and Technology
 
-- 🌱 I’m currently learning **Java, Spring, JS, React**
+- 🌱 I’m currently learning **Java, Python, Django, JS, React**
 
 - 📫 How to reach me **adrianstahl.2@icloud.com**
 
@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrianstahl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianstahl2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adrians127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adrianstahl_2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
