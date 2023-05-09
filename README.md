@@ -3,7 +3,7 @@
 
 - 🎓 2nd-year Computer Science student at AGH University of Science and Technology
 
-- 🌱 I’m currently learning **Java, Python, Django, JS, React**
+- 🌱 I’m currently learning **Java, Python, Django, JS**
 
 - 📫 How to reach me **adrianstahl.2@icloud.com**
 
