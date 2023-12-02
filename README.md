@@ -3,7 +3,7 @@
 
 - 🎓 3nd-year Computer Science student at AGH University of Science and Technology
 
-- 🌱 I’m currently expanding my knowledge **Java, Spring, Python, React**
+- 🌱 I’m currently expanding my knowledge in **Java, Spring, Python, React**
 
 - 📫 How to reach me **adrianstahl.2@icloud.com**
 
