@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">I'm a student and programming enthusiast</h3>
 
-- 🎓 2nd-year Computer Science student at AGH University of Science and Technology
+- 🎓 3nd-year Computer Science student at AGH University of Science and Technology
 
-- 🌱 I’m currently learning **Java, Python, Django, JS**
+- 🌱 I’m currently learning **Java, Spring, Python, React**
 
 - 📫 How to reach me **adrianstahl.2@icloud.com**
 
