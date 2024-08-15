@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">I'm a student and programming enthusiast</h3>
+<h3 align="center">I'm a Software Engineer, CS student and programming enthusiast</h3>
 
 - 🎓 3nd-year Computer Science student at AGH University of Science and Technology
 
